@@ -1,0 +1,127 @@
+@media (min-width: 0px) {
+  .navbar {
+    background-color: rgba(13, 224, 76, 0.884);
+  }
+  .slide img {
+    height: 25vh;
+  }
+  .card {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(13, 224, 76, 0.884);
+  }
+  footer {
+    margin-top: auto;
+    padding: 10px;
+    background-color: rgba(13, 224, 76, 0.884);
+    text-align: center;
+    font-weight: 500;
+  }
+}
+@media (min-width: 576px) {
+  .navbar {
+    background-color: rgba(13, 224, 118, 0.884);
+  }
+  .slide img {
+    height: 40vh;
+  }
+  .card {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(13, 224, 118, 0.884);
+  }
+  footer {
+    margin-top: auto;
+    padding: 10px;
+    background-color: rgba(13, 224, 118, 0.884);
+    text-align: center;
+    font-weight: 500;
+  }
+}
+@media (min-width: 768px) {
+  .navbar {
+    background-color: rgba(13, 224, 154, 0.884);
+  }
+  .slide img {
+    height: 50vh;
+  }
+  .card {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(13, 224, 154, 0.884);
+  }
+  footer {
+    margin-top: auto;
+    padding: 10px;
+    background-color: rgba(13, 224, 154, 0.884);
+    text-align: center;
+    font-weight: 500;
+  }
+}
+@media (min-width: 992px) {
+  .navbar {
+    background-color: rgba(13, 224, 196, 0.884);
+  }
+  .slide img {
+    height: 65vh;
+  }
+  .card {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(13, 224, 196, 0.884);
+  }
+  footer {
+    margin-top: auto;
+    padding: 10px;
+    background-color: rgba(13, 224, 196, 0.884);
+    text-align: center;
+    font-weight: 500;
+  }
+}
+body {
+  background-color: rgb(248, 248, 248);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main h1 {
+  text-align: center;
+  font-weight: 900;
+}
+
+aside h3 {
+  text-align: center;
+  font-weight: 900;
+  margin-top: 15px;
+}
+
+.divContainerIcon {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.divContainerIcon i {
+  font-size: 5rem;
+}
+.divContainerIcon p {
+  font-weight: 500;
+}
+
+.img-fluid {
+  width: 100%;
+}
+
+.accordion {
+  min-height: 100vh;
+}
+
+/*# sourceMappingURL=estilos.css.map */
